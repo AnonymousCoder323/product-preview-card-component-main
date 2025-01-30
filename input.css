@@ -1,4 +1,17 @@
-@import 'tailwindcss';
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+@import "tailwindcss";
+
+@theme {
+  --color-deep-aquamarine: #3c8067;
+  --color-deep-aquamarine-hover: #1a4032;
+  --color-cream: #f2ebe3;
+  --color-gunmetal: #1c232b;
+  --color-aurometal-saurus: #6c7289;
+
+  --font-montserrat: "Montserrat", "sans-serif";
+  --font-fraunces: "Fraunces", "serif";
+}
 
 .attribution {
   font-size: 11px;
