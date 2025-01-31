@@ -12,12 +12,3 @@
   --font-montserrat: "Montserrat", "sans-serif";
   --font-fraunces: "Fraunces", "serif";
 }
-
-.attribution {
-  font-size: 11px;
-  text-align: center;
-}
-
-.attribution a {
-  color: hsl(228, 45%, 44%);
-}
