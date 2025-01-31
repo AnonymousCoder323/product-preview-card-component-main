@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://your-solution-url.com)
+- [Solution](https://www.frontendmentor.io/solutions/product-preview-card-using-tailwind-css-eAOjddsS0k)
 - [Live Site](https://anonymouscoder323.github.io/product-preview-card-component-main/)
 
 ## My process
